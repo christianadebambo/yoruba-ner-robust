@@ -75,7 +75,7 @@ Figures generated in the paper are saved as:
 If you use this repository, please cite:
 
 ```bibtex
-@article{adebambo2025yorubaner,
+@misc{adebambo2025yorubaner,
   title   = {Robust Yorùbá Named Entity Recognition through Simple Mixed Training},
   author  = {Adebambo, Christian Adeoye},
   year    = {2025}
