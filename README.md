@@ -14,7 +14,7 @@ This project quantifies those effects for **Named Entity Recognition (NER)** and
 
 ## Installation
 
-Clone the repository
+Clone the repository:
 
 ```bash
 git clone https://github.com/christianadebambo/yoruba-ner-robust.git
