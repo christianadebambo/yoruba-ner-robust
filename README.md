@@ -58,10 +58,3 @@ The notebook runs end-to-end:
 | XLM‑R Full     | 0.832     | 0.584            | 0.834          |
 | XLM‑R LoRA     | 0.828     | 0.578            | 0.829          |
 | XLM‑R Mixed    | 0.854     | 0.842            | 0.857          |
-
----
-
-## Licence
-
-MIT License © 2025 Christian Adeoye Adebambo.
-Based on public MasakhaNER 2.0 data under its original licence.
